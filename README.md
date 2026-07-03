@@ -2,7 +2,7 @@
 Description is: F--k roblox forever, the "powering your imagination" slogan is not a thing anymore
 
 # You may be asking this: "Why?"
-## Well roblox made their moderation system to strict that even my modules that LITERALLY FOLLOWS THE "Creator Store requirements" RULES get disabled, i had to use sensation's bypass to make them loadable via require()
+## Well roblox made their moderation system  s o  strict that even my modules that LITERALLY FOLLOWS THE "Creator Store requirements" RULES get disabled, i had to use sensation's bypass to make them loadable via require()
 ## I know its illegal but im not distributing any models related to backdoor, its just my own created modules
 # But the bypass loses its meaning when you try to publish a MODEL instead of a MODULE
 ## Thats why i created this repository, you can access to my models that get disabled by the robloxs' sliteas moderation so i dont have to do this stupit bypasses
