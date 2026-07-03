@@ -6,4 +6,4 @@ Description is: F--k roblox forever, the "powering your imagination" slogan is n
 ## I know its illegal but im not distributing any models related to backdoor, its just my own created modules
 # But the bypass loses its meaning when you try to publish a MODEL instead of a MODULE
 ## Thats why i created this repository, you can access to my models that get disabled by the robloxs' sliteas moderation so i dont have to do this stupit bypasses
-I hope roblox doesnt moderate my assets bc the script contains github.com link that is not off-site because it exists on social links
+I hope roblox doesnt moderate my assets bc the script contains github.com link that is not off-site because it exists on social links, thank you for reading my README.md!!!
