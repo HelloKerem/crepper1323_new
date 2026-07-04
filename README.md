@@ -6,24 +6,21 @@
 ###
 [[ OFF-BETA ] Teknikk Lifts - Polar](https://github.com/HelloKerem/crepper1323_new/raw/refs/heads/main/Models/18709399023.rbxm)
 ###
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
 Real README.md below
 
 Description is: Food roblox forever, the "powering your imagination" slogan is not a thing anymore
